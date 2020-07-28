@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá, visitante 👋
 
-<!--
-**DiegoRamosGomes/DiegoRamosGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Me chamo Diego Ramos Gomes, aqui estão alguns dados interesasntes sobre mim
 
-Here are some ideas to get you started:
+- 💻 Atualmente trabalho como desenvolvedor PHP com Laravel 5+
+- 📱 Estudanto desenvolvimento mobile com Flutter nas horas vagas
+- :fax: Estou começando na área de Social Media e Marketing Digital
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meus repositórios são projetos que iniciei para conhecer alguma tecnologia ou algum padrão novo
+
+Qualquer dúvida entre em contato em alguma das redes sociais abaixo
+
+:link: [Instagram](https://www.instagram.com/dihrgomes/)<br>
+:link: [Whatsapp](https://wa.me/5548991417009)<br>
