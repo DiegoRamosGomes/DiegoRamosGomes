@@ -4,7 +4,7 @@
 
 - 💻 Atualmente trabalho como desenvolvedor PHP com Laravel 5+
 - 📱 Estou estudando desenvolvimento mobile com Flutter
-- :fax: rabalho com Marketing Digital (Tráfego Pago, Social Media, etc...)
+- :fax: Trabalho com Marketing Digital (Tráfego Pago, Social Media, etc...)
 
 Meus repositórios são projetos que iniciei para conhecer alguma tecnologia ou algum padrão novo
 
