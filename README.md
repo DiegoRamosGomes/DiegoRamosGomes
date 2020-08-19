@@ -3,8 +3,8 @@
 ### Me chamo Diego Ramos Gomes, aqui estão alguns dados interesasntes sobre mim
 
 - 💻 Atualmente trabalho como desenvolvedor PHP com Laravel 5+
-- 📱 Estudanto desenvolvimento mobile com Flutter nas horas vagas
-- :fax: Estou começando na área de Social Media e Marketing Digital
+- 📱 Estou estudando desenvolvimento mobile com Flutter
+- :fax: rabalho com Marketing Digital (Tráfego Pago, Social Media, etc...)
 
 Meus repositórios são projetos que iniciei para conhecer alguma tecnologia ou algum padrão novo
 
