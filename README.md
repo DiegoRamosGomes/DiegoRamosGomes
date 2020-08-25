@@ -11,4 +11,4 @@ Meus repositórios são projetos que iniciei para conhecer alguma tecnologia ou 
 Qualquer dúvida entre em contato em alguma das redes sociais abaixo
 
 :link: [Instagram](https://www.instagram.com/dihrgomes/)<br>
-:link: [Whatsapp](https://wa.me/5548991417009)<br>
+:link: [Linkedin](https://www.linkedin.com/in/diego-ramos-493221176/)<br>
