@@ -12,3 +12,5 @@ Qualquer dúvida entre em contato em alguma das redes sociais abaixo
 
 :link: [Instagram](https://www.instagram.com/dihrgomes/)<br>
 :link: [Linkedin](https://www.linkedin.com/in/diego-ramos-493221176/)<br>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=DiegoRamosGomes&show_icons=true)
